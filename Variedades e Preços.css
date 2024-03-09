@@ -1,0 +1,15 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 222, 227);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+footer img{
+   border-radius: 0%;
+   width: 600px;
+   height: 800px;
+}
